@@ -30,4 +30,16 @@ https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-3KH251166Y02679
 
 This time code will get downloaded in zipped format along with database.
 
-All the Best :)
+------------------------------
+
+Benefits of Stack Developers Premium Membership :-
+- Get Basic E-commerce code in Laravel 5.6/5.7/5.8/6.0
+- Get Advance E-commerce code in Laravel 6.0/7.0
+- Get Invitation to join in Live Sessions, one to one interaction and clear doubts
+- Full support given to resolve issues 
+- Get help for other Laravel projects
+- Required code will be shared
+- Laravel tips and new features
+- Connect on Social Media﻿
+
+
